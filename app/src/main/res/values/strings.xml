@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpotifyLyricsGrabber</string>
+    <string name="channel_name">LyricsNotification</string>
+    <string name="channel_description">A notification to tap on and show the lyrics for the current playing spotify song.</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
